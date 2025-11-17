@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	mathops "github.com/behrang-nebro/calculator/internal/mathhops"
+	mathops "github.com/behrang-nebro/gocliproject/internal/mathhops"
 )
 
 func main() {
